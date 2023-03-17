@@ -1,5 +1,9 @@
+import { CenteredOverlayForm } from "./CenteredOverlayForm"
+
 export const Addmembers = () => {
     return(
-        <div></div>
+        <div>
+            <CenteredOverlayForm/>
+        </div>
     )
 }
